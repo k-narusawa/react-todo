@@ -2,13 +2,13 @@
   "todo": [
     {
       "id": 1,
-      "body": "進捗を生",
+      "body": "reactの勉強",
       "priority": "重要",
       "milestone": "2021-03-20"
     },
     {
       "id": 2,
-      "body": "とにかくやる",
+      "body": "Springの勉強",
       "priority": "重要",
       "milestone": "2021-03-20"
     }
